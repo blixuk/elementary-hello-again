@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.blixuk.elementary-hello-again</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Again</name>
+  <summary>A Hello World App</summary>
+  <description>
+    <p>Proves that we can use Vala and Gtk</p>
+  </description>
+</component>
